@@ -1,2 +1,3 @@
 file that have changes 
 first commit_new_feature
+seconed commit_new_feature
